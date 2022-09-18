@@ -1,4 +1,3 @@
 vendor/
 *.txt
-#!a.txt
 assets/js/main.js
