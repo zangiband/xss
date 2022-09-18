@@ -71,10 +71,9 @@
 </head>
 <body>
 <h1>XSS Test</h1>
-<h1>XSS Test</h1>
-<h1>XSS Test</h1>
-<h1>XSS Test</h1>
+
 <p >this is a test , do not try it</p>
+
 <div>
     <form method="post" action="config.php">
         <div class="container">
@@ -105,7 +104,6 @@
 
     </form>
     <p>این ویدیو نمونه ساده ای از XSS برای آگاهی شما از نحوه این نوع حملات است.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, officia.</p>
 
 </div>
 </body>
