@@ -1,3 +1,4 @@
 vendor/
+.idea/
 *.txt
 assets/js/main.js
