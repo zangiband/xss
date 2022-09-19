@@ -72,7 +72,7 @@
 <body>
 <h1>XSS Test</h1>
 
-<p >this is a test , do not try it</p>
+    <p >this is a simple test of XSS attacks, <b>do not try it</b></p>
 
 <div>
     <form method="post" action="config.php">
